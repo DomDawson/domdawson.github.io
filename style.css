@@ -9,7 +9,7 @@
     height: 100vh;
     position: relative;
     overflow: hidden;
-    background: linear-gradient (to right, #F9D7F0, #F8DACA)
+    background-image; linear-gradient (to right, #F9D7F0, #F8DACA);
 }
 .nav{
     width: 80%;
