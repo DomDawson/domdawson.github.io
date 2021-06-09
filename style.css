@@ -40,35 +40,3 @@
     text-decoration: none;
     }
 }
-.topinfo{
-    width: 1000px;
-    height: 1000px;
-    position: absoulute;
-    top: 50%;
-    left: -10%;
-    transform: translateY(-50%);
-}
-.feature {
-    position: absolute;
-}
-.sun {
-    top: 50px;
-    right: 100px;
-    max-width: 20%;
-    max-height: auto;
-    padding: 10px;
-}
-.rain{
-    top: 50px;
-    right: 300px; 
-    max-width: 20%;
-    max-height: auto;
-    padding: 10px;
-}
-.storm{
-    top: 50px;
-    right: 500px; 
-    max-width: 20%;
-    max-height: auto;
-    padding: 10px;
-}
