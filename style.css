@@ -39,4 +39,8 @@
 .nav-links ul li a {
     color: #293C97;
     text-decoration: none;
+    @font-face {
+        font-family: smoothy sans;
+        src: url(/Users/Dominique/Documents/domdawson.github.io/smoothy-sans.otf);
+    }
 }
