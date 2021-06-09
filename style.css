@@ -53,21 +53,21 @@
 }
 .sun {
     top: 150px;
-    right 250px;
+    right: 250px;
     width: 100px;
     height: auto;
     padding: 10px;
 }
 .rain{
     top: 150px;
-    right 500px; 
+    right: 500px; 
     width: 100px;
     height: auto;
     padding: 10px;
 }
 .storm{
     top: 150px;
-    right 750px; 
+    right: 750px; 
     width: 100px;
     height: auto;
     padding: 10px;
