@@ -39,8 +39,28 @@
 .nav-links ul li a {
     color: #293C97;
     text-decoration: none;
-    @font-face {
-        font-family: smoothy sans;
-        src: url(/Users/Dominique/Documents/domdawson.github.io/smoothy-sans.otf);
     }
+}
+.topinfo{
+    width: 1000px;
+    height: 1000px;
+    position: absoulute;
+    top: 50%;
+    left: -10%;
+    transform: translateY(-50%);
+}
+.feature {
+    position: absolute;
+}
+.sun {
+    top: 200px;
+    right 100px;
+}
+.rain{
+    top: 200px;
+    right 500px; 
+}
+.storm{
+    top: 200px;
+    right 500px; 
 }
