@@ -51,21 +51,21 @@
 .feature {
     position: absolute;
 }
-.feature-sun {
+.sun {
     top: 50px;
     right: 100px;
     max-width: 20%;
     max-height: auto;
     padding: 10px;
 }
-.feature-rain{
+.rain{
     top: 50px;
     right: 300px; 
     max-width: 20%;
     max-height: auto;
     padding: 10px;
 }
-.feature-storm{
+.storm{
     top: 50px;
     right: 500px; 
     max-width: 20%;
